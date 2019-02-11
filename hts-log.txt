@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 23 Jan 2019 09:54:28 at http://manisa.bouthythemes.com/index-vertical-nav.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://manisa.bouthythemes.com/index-vertical-nav.html -O1 "C:\Users\HP\Desktop\Dilshan" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:54:36	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): manisa.bouthythemes.com/css/light_template.css
+10:05:08	Error: 	"Not Found" (404) at link manisa.bouthythemes.com/POST (from manisa.bouthythemes.com/index-vertical-nav.html)
+10:05:16	Error: 	"Not Found" (404) at link manisa.bouthythemes.com/images/background-slider2.jpg (from manisa.bouthythemes.com/css/main.css)
+10:05:16	Error: 	"Not Found" (404) at link manisa.bouthythemes.com/images/background-paralax.jpg (from manisa.bouthythemes.com/css/main.css)
+10:05:16	Error: 	"Not Found" (404) at link manisa.bouthythemes.com/images/background-stat.jpg (from manisa.bouthythemes.com/css/main.css)
+10:05:16	Warning: 	Retry after error -4 (Incorrect length (685580 Bytes, 797360 expected)) at link manisa.bouthythemes.com/images/testim1.jpg (from manisa.bouthythemes.com/css/main.css)
+10:06:25	Warning: 	File not parsed, looks like binary: manisa.bouthythemes.com/fonts/manisa.eot?cteygy
+10:06:25	Warning: 	File not parsed, looks like binary: manisa.bouthythemes.com/fonts/manisa.ttf?cteygy
+10:06:25	Warning: 	File not parsed, looks like binary: manisa.bouthythemes.com/fonts/manisa.woff?cteygy
+10:06:25	Warning: 	File not parsed, looks like binary: manisa.bouthythemes.com/fonts/fontawesome-webfont.eot?v=4.7.0
+10:06:25	Warning: 	File not parsed, looks like binary: manisa.bouthythemes.com/fonts/fontawesome-webfont.eot?
+10:06:25	Warning: 	File not parsed, looks like binary: manisa.bouthythemes.com/fonts/fontawesome-webfont.woff2?v=4.7.0
+10:06:25	Warning: 	File not parsed, looks like binary: manisa.bouthythemes.com/fonts/fontawesome-webfont.woff?v=4.7.0
+10:06:25	Warning: 	File not parsed, looks like binary: manisa.bouthythemes.com/fonts/fontawesome-webfont.ttf?v=4.7.0
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 5 seconds : 84 links scanned, 78 files written (18538826 bytes overall) [18554999 bytes received at 25593 bytes/sec], 27077 bytes transferred using HTTP compression in 2 files, ratio 35%, 3.0 requests per connection
+(4 errors, 10 warnings, 0 messages)
